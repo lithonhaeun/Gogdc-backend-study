@@ -1,10 +1,10 @@
-package hello.hello_spring;
+package jpabook.Gdgoc._backend_study;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HelloSpringApplicationTests {
+class GdgocBackendStudyApplicationTests {
 
 	@Test
 	void contextLoads() {

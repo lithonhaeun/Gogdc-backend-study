@@ -1,13 +1,13 @@
-package hello.hello_spring;
+package jpabook.Gdgoc._backend_study;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HelloSpringApplication {
+public class GdgocBackendStudyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HelloSpringApplication.class, args);
+		SpringApplication.run(GdgocBackendStudyApplication.class, args);
 	}
 
 }
